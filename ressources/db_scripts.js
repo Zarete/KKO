@@ -78,6 +78,11 @@
                 "Calculation of bases",
                 "3",
                 "../img/perl_nbbase2.png"
+            ],
+            [
+                "return suite",
+                "1",
+                "../img/perl1_fibo.png"
             ]
         ],
         "2": [
@@ -139,13 +144,6 @@
                 "return fibonacci's suite from 1 to 16",
                 "4",
                 "../img/perl2_fibo.png"
-            ]
-        ],
-        "return suite": [
-            [
-                "3",
-                "../img/perl4_fibo.png",
-                "1"
             ]
         ]
     },
@@ -236,15 +234,6 @@
                 "trouver le nombre",
                 "3",
                 "cpp_3_3_greatNb.png"
-            ]
-        ]
-    },
-    "": {
-        "  \"Python\": {": [
-            [
-                "      \"1\": [",
-                "          [",
-                "              \"Input a Number, Return \\\"Odd\\\" if odd, \\\"Even\\\" if even.\","
             ]
         ]
     }
