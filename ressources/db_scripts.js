@@ -1,4 +1,4 @@
-let db = {
+{
     "Python": {
         "2": [
             [
@@ -18,9 +18,11 @@ let db = {
             ]
         ],
         "3": [
-            "Return the n-th number of fibonnaci sequence.",
-            "1",
-            "../img/python_3_1.png",
+            [
+                "Return the n-th number of fibonnaci sequence.",
+                "1",
+                "../img/python_3_1.png"
+            ],
             [
                 "Do fibonnaci.",
                 "3",
@@ -33,9 +35,11 @@ let db = {
             ]
         ],
         "1": [
-            "Input some shit and return or don't.",
-            "3",
-            "../img/python_1_3.png",
+            [
+                "Input some shit and return or don't.",
+                "3",
+                "../img/python_1_3.png"
+            ],
             [
                 "Input a Number, Return \"Odd\" if odd, \"Even\" if even.",
                 "4",
@@ -77,9 +81,11 @@ let db = {
             ]
         ],
         "2": [
-            "longest sequence",
-            "3",
-            "../img/perl_maxSeq1.png",
+            [
+                "longest sequence",
+                "3",
+                "../img/perl_maxSeq1.png"
+            ],
             [
                 "return longest sequence from the sequence sample",
                 "4",
@@ -97,9 +103,11 @@ let db = {
             ]
         ],
         "4": [
-            "input a number, return division table of enter number",
-            "2",
-            "../img/perl_mult2.png",
+            [
+                "input a number, return division table of enter number",
+                "2",
+                "../img/perl_mult2.png"
+            ],
             [
                 "hum... x*x",
                 "3",
@@ -117,9 +125,11 @@ let db = {
             ]
         ],
         "1": [
-            "return fibonacci's suite from 1 to 16",
-            "1",
-            "./img/perl1_fibo.png",
+            [
+                "return fibonacci's suite from 1 to 16",
+                "1",
+                "./img/perl1_fibo.png"
+            ],
             [
                 "return fibonacci's suite from 1 to 16",
                 "2",
@@ -132,9 +142,11 @@ let db = {
             ]
         ],
         "return suite": [
-            "3",
-            "../img/perl4_fibo.png",
-            "1"
+            [
+                "3",
+                "../img/perl4_fibo.png",
+                "1"
+            ]
         ]
     },
     "cpp": {
@@ -161,9 +173,11 @@ let db = {
             ]
         ],
         "1": [
-            "calculer l'air d'un rectangle dont les mesures sont donn\u00e9s par l'utilisateur",
-            "1",
-            "cpp_1_1_air.png",
+            [
+                "calculer l'air d'un rectangle dont les mesures sont donn\u00e9s par l'utilisateur",
+                "1",
+                "cpp_1_1_air.png"
+            ],
             [
                 "calcul rectangle",
                 "3",
@@ -181,9 +195,11 @@ let db = {
             ]
         ],
         "4": [
-            "calcul la puissance d'un nombre, les deux \u00e9tants donn\u00e9s par l'utilisateur",
-            "1",
-            "cpp_4_1_puissance.png",
+            [
+                "calcul la puissance d'un nombre, les deux \u00e9tants donn\u00e9s par l'utilisateur",
+                "1",
+                "cpp_4_1_puissance.png"
+            ],
             [
                 "calcul la puissance d'un nombre, les deux \u00e9tants donn\u00e9s par l'utilisateur",
                 "4",
@@ -201,9 +217,11 @@ let db = {
             ]
         ],
         "3": [
-            "trouver le plus grand nombre parmis trois nombres donn\u00e9s par l'utilisateur",
-            "2",
-            "cpp_3_2_greatNb.png",
+            [
+                "trouver le plus grand nombre parmis trois nombres donn\u00e9s par l'utilisateur",
+                "2",
+                "cpp_3_2_greatNb.png"
+            ],
             [
                 "trouver le plus grand nombre parmis trois nombres donn\u00e9s par l'utilisateur",
                 "1",
@@ -218,6 +236,15 @@ let db = {
                 "trouver le nombre",
                 "3",
                 "cpp_3_3_greatNb.png"
+            ]
+        ]
+    },
+    "": {
+        "  \"Python\": {": [
+            [
+                "      \"1\": [",
+                "          [",
+                "              \"Input a Number, Return \\\"Odd\\\" if odd, \\\"Even\\\" if even.\","
             ]
         ]
     }
